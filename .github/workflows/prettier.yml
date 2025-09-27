@@ -1,0 +1,27 @@
+name: Prettier code formatter
+
+on:
+  pull_request:
+    branches:
+      - master
+      - main
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  format:
+    # available images: https://github.com/actions/runner-images#available-images
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code 🛎️
+        uses: actions/checkout@v4.2.2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Run Prettier 💅🏽
+        uses: AbdulRehman-1/pr-prettier@initial
+        with:
+          only_changed: true
+          prettier_options: --write **/*.{css,html,js,json,liquid,md,scss,yaml,yml}
+          prettier_plugins: "@shopify/prettier-plugin-liquid"
