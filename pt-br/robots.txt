@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://alessandrogerosa.github.io/sitemap.xml
