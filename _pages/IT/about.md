@@ -1,27 +1,41 @@
 ---
 page_id: about
 layout: about
-title: sobre
+title: about
 permalink: /
-subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
+subtitle: Researcher in Sociology
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 seu telefone do trabalho</p>
-    <p>123 seu endereço</p>
-    <p>Sua cidade, estado 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info:
+    <p>Assistant Professor in Cultural Sociology</p>
+    <p>Department of Social and Political Science</p>
+    <p>University of Milan (Italy)</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
+
+scholar:
+  sort_by: year
+  order: descending  # can be either "ascending" or "descending"
 ---
 
-Escreva sua biografia aqui. Diga ao mundo sobre você. Adicione o link para o seu [subreddit](http://reddit.com) favorito. Você pode colocar uma foto também. O código já está dentro, basta nomear sua foto como `prof_pic.jpg` e colocá-la na pasta `img/`.
+Hi! I am Alessandro Gerosa, an Assistant Professor in Cultural Sociology at the department of Social and Political Science, University of Milan.
 
-Coloque seu endereço / caixa postal / outras informações logo abaixo da sua foto. Você também pode desabilitar qualquer um desses elementos editando a propriedade `profile` do cabeçalho YAML do seu `_pages/about.md`. Edite `_bibliography/papers.bib` e o Jekyll renderizará sua [página de publicações](/multi-language-al-folio/publications/) automaticamente.
+I am a `sociologist`. My research analyses how people seek `authentic` and `meaningful` lives in `late modern capitalism` through `consumption` and production practices, from a `cultural` and `critical` perspective. My recent research projects focus on the `neo-craft` consumption and `work`, `digital cultures`, and `urban transformation` processes. My ongoing (self-funded) research project aims to analyse the collective, organisational dimension of neo-craft work through the case study of critical winemakers.
 
-Adicione links para seus perfis de mídias sociais também. Este tema está configurado para usar [Font Awesome icons](https://fontawesome.com/) e [Academicons](https://jpswalsh.github.io/academicons/), como os visto abaixo. Adicione seu Facebook, Twitter, LinkedIn, Google Scholar ou simplesmente desative todos eles.
+I am the author of [The Hipster Economy: Taste and Authenticity in Late Modern Capitalism](https://www.uclpress.co.uk/products/230904), published in `Open Access` format by UCL Press (yes, this means you can download the pdf for free from the publishing house!). My book has been featured in a number of magazines and podcasts, check the dedicated page to access them!
+
+I am also the author of a number of academic publications. You can find a selected list below (and the full list in the dedicated page).

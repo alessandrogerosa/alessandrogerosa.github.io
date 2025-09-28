@@ -3,19 +3,19 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Researcher in Sociology
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info:
+    <p>Assistant Professor in Cultural Sociology</p>
+    <p>Department of Social and Political Science</p>
+    <p>University of Milan (Italy)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -26,10 +26,16 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+scholar:
+  sort_by: year
+  order: descending  # can be either "ascending" or "descending"
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Alessandro Gerosa, an Assistant Professor in Cultural Sociology at the department of Social and Political Science, University of Milan.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
+I am a `sociologist`. My research analyses how people seek `authentic` and `meaningful` lives in `late modern capitalism` through `consumption` and production practices, from a `cultural` and `critical` perspective. My recent research projects focus on the `neo-craft` consumption and `work`, `digital cultures`, and `urban transformation` processes. My ongoing (self-funded) research project aims to analyse the collective, organisational dimension of neo-craft work through the case study of critical winemakers.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am the author of [The Hipster Economy: Taste and Authenticity in Late Modern Capitalism](https://www.uclpress.co.uk/products/230904), published in `Open Access` format by UCL Press (yes, this means you can download the pdf for free from the publishing house!). My book has been featured in a number of magazines and podcasts, check the dedicated page to access them!
+
+I am also the author of a number of academic publications. You can find a selected list below (and the full list in the dedicated page).
