@@ -32,10 +32,10 @@ scholar:
   order: descending  # can be either "ascending" or "descending"
 ---
 
-Hi! I am Alessandro Gerosa, an Assistant Professor in Cultural Sociology at the department of Social and Political Science, University of Milan.
+Ciao! Sono Alessandro Gerosa, ricercatore in sociologia culturale (RTdB) presso il Dipartimento di Scienze Sociali e Politiche dell'Università degli Studi di Milano.
 
-I am a `sociologist`. My research analyses how people seek `authentic` and `meaningful` lives in `late modern capitalism` through `consumption` and production practices, from a `cultural` and `critical` perspective. My recent research projects focus on the `neo-craft` consumption and `work`, `digital cultures`, and `urban transformation` processes. My ongoing (self-funded) research project aims to analyse the collective, organisational dimension of neo-craft work through the case study of critical winemakers.
+La mia ricerca adotta una prospettiva culturale e critica per analizzare come gli individui cerchino di conseguire esperienze di vita significative ed autentiche nel capitalismo tardo moderno, attraverso pratiche di lavoro e di consumo. I miei progetti di ricerca recenti si sono concentrati sul consumo e sul lavoro neo-artigianali, sulle culture digitali e sui processi di trasformazione urbana. Il mio progetto di ricerca attuale (autofinanziato) mira ad analizzare la possibile dimensione organizzativa collettiva nei processi di politicizzazione del lavoro neo-artigianale, attraverso il caso di studio di viticoltori critici.
 
-I am the author of [The Hipster Economy: Taste and Authenticity in Late Modern Capitalism](https://www.uclpress.co.uk/products/230904), published in `Open Access` format by UCL Press (yes, this means you can download the pdf for free from the publishing house!). My book has been featured in a number of magazines and podcasts, check the dedicated page to access them!
+Sono autore di [The Hipster Economy: Taste and Authenticity in Late Modern Capitalism] (https://www.uclpress.co.uk/products/230904), pubblicato in formato Open Access da UCL Press (il pdf del libro è liberamente scaricabile dalla casa editrice!). Il mio libro è stato presentato in numerose riviste e podcast, sia in italiano che in inglese: potete trovare tutte le risorse nell'apposita pagina.
 
-I am also the author of a number of academic publications. You can find a selected list below (and the full list in the dedicated page).
+Sono anche autore di numerose pubblicazioni accademiche. Potete trovare un elenco selezionato qui sotto (e l'elenco completo nella pagina dedicata).
