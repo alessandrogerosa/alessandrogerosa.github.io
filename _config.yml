@@ -7,7 +7,7 @@ first_name: Alessandro
 middle_name:
 last_name: Gerosa
 keywords: Alessandro Gerosa, Gerosa, sociology, academic, taste, authenticity, the hipster economy # add your own keywords or leave empty
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: prof_pic.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://alessandrogerosa.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
