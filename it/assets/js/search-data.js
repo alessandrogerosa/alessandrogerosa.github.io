@@ -39,7 +39,7 @@ ninja.data = [{
           description: "I miei insegnamenti",
           section: "Menu de navegação",
           handler: () => {
-            window.location.href = "/it/insegnamenti/";
+            window.location.href = "/it/teaching/";
           },
         },{id: "nav-projects",
           title: "projects",
@@ -54,13 +54,6 @@ ninja.data = [{
           section: "Menu de navegação",
           handler: () => {
             window.location.href = "/it/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Menu de navegação",
-          handler: () => {
-            window.location.href = "/it/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
