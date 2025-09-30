@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.tuwien.at/en/library'>TU Wien Bibliothek</a>
+subtitle:
 
 profile:
   align: right
