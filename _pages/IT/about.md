@@ -1,42 +1,28 @@
 ---
 page_id: about
 layout: about
-title: bio
+title: Über
 permalink: /
-subtitle:
+subtitle: <a href='https://www.tuwien.at/bibliothek/'>TU Wien Bibliothek</a>
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info:
-<p>Ricercatore</p>
-<p>Dip. di Scienze Sociali e Politiche</p>
-<p>Università di Milano</p>
-<p>Italia</p>
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>TU Wien Bibliothek</p><br>
+    <p>DD 02 B17</p><br>
+    <p>Resselgasse 4</p><br>
+    <p>1040 Wien</p>
 
+news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
-
-scholar:
-  sort_by: year
-  order: descending  # can be either "ascending" or "descending"
+social: true # includes social icons at the bottom of the page
 ---
 
-Sono un ricercatore in `sociologia culturale` (RTdB) presso il Dipartimento di Scienze Sociali e Politiche dell'Università degli Studi di Milano.
+Ich bin Bibliothekar und arbeite als Open Access Manager in der [Fachgruppe Publikationsservices](https://www.tuwien.at/bibliothek/publizieren) der [TU Wien](https://www.tuwien.at/) [Bibliothek](https://www.tuwien.at/bibliothek/).
 
-La mia ricerca adotta una prospettiva culturale e `critica` per analizzare come gli individui cerchino di conseguire esperienze di vita significative ed `autentiche` nel `capitalismo` tardo moderno, attraverso pratiche `lavorative` e di `consumo`. I miei progetti di ricerca recenti si sono concentrati sul consumo e sul lavoro `neo-artigianali`, sulle `culture digitali` e sui processi di `trasformazione urbana`. Il mio progetto di ricerca attuale (autofinanziato) mira ad analizzare la possibile dimensione organizzativa `collettiva` nei processi di politicizzazione del lavoro neo-artigianale, attraverso il caso di studio delle reti o collaborazioni tra `vignaioli` critici.
+Ich habe mein zweijähriges Bibliotheksreferendariat an der [Universitätsbibliothek](https://www.ub.uni-frankfurt.de/) der [Goethe Universität](https://www.uni-frankfurt.de/) in Frankfurt am Main absolviert. Dort erhielt ich von der [HU Berlin](https://www.hu-berlin.de/) meinen [Master in Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/de/studium/studiengaenge/fernstudium) und vom Land Hessen meine Staatsexamen-Qualifikation als Assessor des Bibliotheksdienstes.
 
-Sono autore di [The Hipster Economy: Taste and Authenticity in Late Modern Capitalism](https://www.uclpress.co.uk/products/230904), pubblicato in formato `Open Access` da `UCL Press` (il pdf del libro è liberamente scaricabile dalla casa editrice!). Il mio libro è stato presentato in numerose riviste e podcast, sia in italiano che in inglese: potete trovare tutte le risorse nell'apposita pagina.
-
-Sono anche autore di numerose pubblicazioni accademiche. Potete trovare un elenco selezionato qui sotto (e l'elenco completo nella pagina dedicata).
+Ich habe meinen Doktor am [Fachbereich Linguistik](https://www.ling.uni-konstanz.de/) der [Universität Konstanz](https://www.uni-konstanz.de/) gemacht. Der Fokus meiner Forschung war die Semantik und Pragmatik von Konditionalsätzen, wo ich mich darauf spezialisierte, die Gelungenheitsverteilung von umgekehrten Sobelsequenzen zu modellieren. Das Hauptziel meiner Forschung war es, die Debatte zwischen der dynamisch strikten Herangehensweise und der variabel-strikten Herangehensweise für das Modellieren von Konditionalsätzen voranzubringen. Die Betreuer meiner Dissertation waren [Maribel Romero](https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/), [María Biezma](https://mariabiezma.com/) und [Regine Eckardt](https://www.ling.uni-konstanz.de/eckardt/personen/prof-dr-regine-eckardt/).
