@@ -1,42 +1,28 @@
 ---
 page_id: about
 layout: about
+title: about
 permalink: /
-title: bio
-subtitle: Ricercatore in sociologia
+subtitle: <a href='https://www.tuwien.at/en/library'>TU Wien Bibliothek</a>
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
-  more_info:
-<p>Ricercatore</p>
-<p>Dip. di Scienze Sociali e Politiche</p>
-<p>Università di Milano</p>
-<p>Italia</p>
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>TU Wien Bibliothek</p><br>
+    <p>DD 02 B17</p><br>
+    <p>Resselgasse 4</p><br>
+    <p>1040 Vienna</p>
 
+news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
-
-scholar:
-  sort_by: year
-  order: descending  # can be either "ascending" or "descending"
+social: true # includes social icons at the bottom of the page
 ---
 
-Ciao! Sono Alessandro Gerosa, ricercatore in sociologia culturale (RTdB) presso il Dipartimento di Scienze Sociali e Politiche dell'Università degli Studi di Milano.
+I am a librarian and I work as an Open Access Manager in the [Service Group for Publication Services](https://www.tuwien.at/en/library/publishing) of [TU Wien](https://www.tuwien.at/en/)'s [university library](https://www.tuwien.at/en/library).
 
-La mia ricerca adotta una prospettiva culturale e critica per analizzare come gli individui cerchino di conseguire esperienze di vita significative ed autentiche nel capitalismo tardo moderno, attraverso pratiche di lavoro e di consumo. I miei progetti di ricerca recenti si sono concentrati sul consumo e sul lavoro neo-artigianali, sulle culture digitali e sui processi di trasformazione urbana. Il mio progetto di ricerca attuale (autofinanziato) mira ad analizzare la possibile dimensione organizzativa collettiva nei processi di politicizzazione del lavoro neo-artigianale, attraverso il caso di studio di viticoltori critici.
+I did my two-year preparatory service working at the [university library](https://www.ub.uni-frankfurt.de/home_en) of the [Goethe University](https://www.goethe-university-frankfurt.de/en?locale=en) in Frankfurt. There, I received a [master's in library and information science](https://www.ibi.hu-berlin.de/de/studium/studiengaenge/fernstudium) from the [HU Berlin](https://www.hu-berlin.de/en) and, from the German state of Hessia, I received my state exams qualification as an assessor of library services.
 
-Sono autore di [The Hipster Economy: Taste and Authenticity in Late Modern Capitalism](https://www.uclpress.co.uk/products/230904), pubblicato in formato Open Access da UCL Press (il pdf del libro è liberamente scaricabile dalla casa editrice!). Il mio libro è stato presentato in numerose riviste e podcast, sia in italiano che in inglese: potete trovare tutte le risorse nell'apposita pagina.
-
-Sono anche autore di numerose pubblicazioni accademiche. Potete trovare un elenco selezionato qui sotto (e l'elenco completo nella pagina dedicata).
+I did my PhD at the [Department of Linguistics](https://www.ling.uni-konstanz.de/en/) of the [University of Konstanz](https://www.uni-konstanz.de/en/). The focus of my academic research was on the semantics and pragmatics of conditionals, specialising on accounting for the felicity distribution of reverse Sobel sequences. The main goal of my research was to further the debate between the dynamic strict approach and the variably-strict approach to modelling conditionals. My thesis supervisors were [Maribel Romero](https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/), [María Biezma](https://mariabiezma.com/), and [Regine Eckardt](https://www.ling.uni-konstanz.de/eckardt/personen/prof-dr-regine-eckardt/).
