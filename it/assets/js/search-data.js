@@ -41,13 +41,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/it/publications/";
           },
-        },{id: "nav-insegnamenti",
-          title: "insegnamenti",
-          description: "I miei insegnamenti",
-          section: "Menu di navigazione",
-          handler: () => {
-            window.location.href = "/it/teaching/";
-          },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
@@ -61,6 +54,13 @@ ninja.data = [{
           section: "Menu di navigazione",
           handler: () => {
             window.location.href = "/it/cv/";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Materials for courses you taught. Replace this text with your description.",
+          section: "Menu di navigazione",
+          handler: () => {
+            window.location.href = "/it/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -334,7 +334,7 @@ ninja.data = [{
         section: "Articoli",
         handler: () => {
           
-            window.location.href = "/it/assets/pdf/pt-br/example_pdf.pdf";
+            window.location.href = "/it/assets/pdf/en-us/example_pdf.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -392,11 +392,11 @@ ninja.data = [{
             window.location.href = "/it/blog/2015/math/";
           
         },
-      },{id: "post-uma-postagem-com-código",
+      },{id: "post-a-post-with-code",
         
-          title: "uma postagem com código",
+          title: "a post with code",
         
-        description: "um exemplo de uma postagem em um blog com código",
+        description: "an example of a blog post with some code",
         section: "Articoli",
         handler: () => {
           
@@ -429,17 +429,17 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "",handler: () => {
-              window.location.href = "/it/books/it/the_godfather/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha",
-          title: 'Um anúncio simples em uma linha.',
+              window.location.href = "/it/books/en/the_godfather/";
+            },},{id: "news-a-simple-inline-announcement",
+          title: 'A simple inline announcement.',
           description: "",
-          section: "Novità",},{id: "news-um-anúncio-longo-com-detalhes",
-          title: 'Um anúncio longo com detalhes',
+          section: "Novità",},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
           description: "",
           section: "Novità",handler: () => {
-              window.location.href = "/it/news/it/announcement_2/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
-          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/it/news/en/announcement_2/";
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "Novità",},{id: "projects-project-7",
           title: 'project 7',
@@ -456,36 +456,36 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Progetti",handler: () => {
               window.location.href = "/it/projects/9_project/";
-            },},{id: "projects-projeto-1",
-          title: 'projeto 1',
-          description: "com imagem de fundo",
+            },},{id: "projects-project-1",
+          title: 'project 1',
+          description: "with background image",
           section: "Progetti",handler: () => {
-              window.location.href = "/it/projects/it/1_project/";
-            },},{id: "projects-projeto-2",
-          title: 'projeto 2',
-          description: "um projeto com imagem de fundo e comentários do giscus",
+              window.location.href = "/it/projects/en/1_project/";
+            },},{id: "projects-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
           section: "Progetti",handler: () => {
-              window.location.href = "/it/projects/it/2_project/";
+              window.location.href = "/it/projects/en/2_project/";
             },},{id: "projects-datafied-society",
           title: 'Datafied Society',
           description: "",
           section: "Progetti",handler: () => {
-              window.location.href = "/it/projects/it/3_project/";
-            },},{id: "projects-projeto-4",
-          title: 'projeto 4',
-          description: "outro sem imagem",
+              window.location.href = "/it/projects/en/3_project/";
+            },},{id: "projects-project-4",
+          title: 'project 4',
+          description: "another without an image",
           section: "Progetti",handler: () => {
-              window.location.href = "/it/projects/it/4_project/";
-            },},{id: "projects-projeto-5",
-          title: 'projeto 5',
-          description: "um projeto com imagem de fundo",
+              window.location.href = "/it/projects/en/4_project/";
+            },},{id: "projects-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
           section: "Progetti",handler: () => {
-              window.location.href = "/it/projects/it/5_project/";
-            },},{id: "projects-projeto-6",
-          title: 'projeto 6',
-          description: "um projeto sem imagem",
+              window.location.href = "/it/projects/en/5_project/";
+            },},{id: "projects-project-6",
+          title: 'project 6',
+          description: "a project with no image",
           section: "Progetti",handler: () => {
-              window.location.href = "/it/projects/it/6_project/";
+              window.location.href = "/it/projects/en/6_project/";
             },},{
         id: 'social-email',
         title: 'Invia una mail',
