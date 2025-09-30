@@ -1,5 +1,5 @@
 ---
-page_id: about
+page_id: bio
 layout: about
 title: bio
 permalink: /
