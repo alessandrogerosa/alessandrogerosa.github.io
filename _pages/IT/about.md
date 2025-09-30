@@ -2,7 +2,7 @@
 page_id: about
 layout: about
 title: bio
-permalink: /
+permalink: /bio
 subtitle: Ricercatore in sociologia
 
 profile:
