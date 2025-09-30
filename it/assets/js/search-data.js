@@ -466,9 +466,9 @@ ninja.data = [{
           description: "um projeto com imagem de fundo e comentários do giscus",
           section: "Progetti",handler: () => {
               window.location.href = "/it/projects/it/2_project/";
-            },},{id: "projects-projeto-3-com-um-nome-bem-longo",
-          title: 'projeto 3 com um nome bem longo',
-          description: "um projeto que redireciona pra outro website",
+            },},{id: "projects-datafied-society",
+          title: 'Datafied Society',
+          description: "",
           section: "Progetti",handler: () => {
               window.location.href = "/it/projects/it/3_project/";
             },},{id: "projects-projeto-4",
