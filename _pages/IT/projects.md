@@ -2,7 +2,7 @@
 page_id: projects
 layout: page
 title: Progetti
-permalink: /projects/
+permalink: /progetti/
 description: Una sintesi dei miei progetti di ricerca a cui ho e sto lavorando.
 nav: true
 nav_order: 3
