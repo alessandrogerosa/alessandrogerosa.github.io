@@ -1,11 +1,11 @@
 ---
 page_id: teaching
 layout: page
-title: insegnamenti
+title: I miei insegnamenti
 permalink: /teaching/
-description: I miei insegnamenti
+description:
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [teaching]
 horizontal: false
 ---

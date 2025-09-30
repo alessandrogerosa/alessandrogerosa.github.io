@@ -18,9 +18,9 @@ bibliography:
 blog:
   navigation_title: blog
 categories:
-  fun: peersonale
+  fun: personale
   work: lavoro
-  teaching: insegnamento
+  teaching: corsi
 citation:
   bibtex: "o come citazione di BibTeX:"
   introduction: "Se lo hai trovato utile, prego citalo come:"

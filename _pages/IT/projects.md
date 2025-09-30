@@ -1,7 +1,7 @@
 ---
 page_id: projects
 layout: page
-title: progetti
+title: Progetti
 permalink: /projects/
 description: Una sintesi dei miei progetti di ricerca a cui ho e sto lavorando.
 nav: true
