@@ -14,13 +14,20 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-bio",
+    title: "bio",
     section: "Menu de navegação",
     handler: () => {
       window.location.href = "/it/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-bookshelf",
+          title: "bookshelf",
+          description: "",
+          section: "Menu de navegação",
+          handler: () => {
+            window.location.href = "/it/books/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "a simple whitespace theme for academics",
           section: "Menu de navegação",
