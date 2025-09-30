@@ -3,22 +3,34 @@ page_id: about
 layout: about
 title: bio
 permalink: /
-subtitle: <a href='https://www.tuwien.at/en/library'>TU Wien Bibliothek</a>
+subtitle: Ricercatore in sociologia
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Ricercatore</p><br>
-    <p>Università di Milano</p><br>
-    <p>Via Conservatorio, 7</p><br>
-    <p>Milano</p>
+  more_info:
+<p>Ricercatore</p>
+<p>Dip. di Scienze Sociali e Politiche</p>
+<p>Università di Milano</p>
+<p>Italia</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
+
+scholar:
+  sort_by: year
+  order: descending  # can be either "ascending" or "descending"
 ---
 
 Sono un ricercatore in `sociologia culturale` (RTdB) presso il Dipartimento di Scienze Sociali e Politiche dell'Università degli Studi di Milano.
