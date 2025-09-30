@@ -1,8 +1,8 @@
 ---
-page_id: insegnamenti
+page_id: teaching
 layout: page
 title: insegnamenti
-permalink: /insegnamenti/
+permalink: /teaching/
 description: I miei insegnamenti
 nav: true
 nav_order: 2

@@ -10,9 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info:
-    <p><small>Assistant Professor in Cultural Sociology</small></p>
-    <p><small>Department of Social and Political Science</small></p>
-    <p><small>University of Milan (Italy)</small></p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
