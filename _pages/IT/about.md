@@ -1,8 +1,8 @@
 ---
 page_id: about
 layout: about
-title: bio
 permalink: /
+title: bio
 subtitle: Ricercatore in sociologia
 
 profile:

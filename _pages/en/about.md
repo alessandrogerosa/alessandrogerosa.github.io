@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: bio
+title: about
 permalink: /
 subtitle: Researcher in Sociology
 
