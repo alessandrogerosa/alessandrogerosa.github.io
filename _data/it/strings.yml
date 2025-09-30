@@ -1,51 +1,52 @@
 archive:
-  prefix: um arquivo de
-  category_suffix: desta categoria
-  tag_suffix: com este marcador
-  year_suffix: deste ano
+  prefix: un archivio di
+  category_suffix: di questa categoria
+  tag_suffix: con questo tag
+  year_suffix: di questo anno
 bibliography:
-  abstract: Abs
-  awarded: Premiado
+  abstract: Abstract
+  awarded: premiato
   blog: Blog
-  book_prefix: Em
-  code: Código
+  book_prefix: In
+  code: Codice
   last_author_prefix: e
   poster: Poster
   slides: Slides
   supp: Supl
   video: Vídeo
-  website: Site
+  website: Sito
 blog:
   navigation_title: blog
 categories:
-  fun: diversão
-  work: trabalho
+  fun: peersonale
+  work: lavoro
+  teaching: insegnamento
 citation:
-  bibtex: "ou como uma citação em BibTeX:"
-  introduction: "Se você achou isso útil, por favor cite como:"
+  bibtex: "o come citazione di BibTeX:"
+  introduction: "Se lo hai trovato utile, prego citalo come:"
 collections:
-  books: livros
-  posts: postagens
-contact_note: Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
+  books: libri
+  posts: articoli
+contact_note: Prego di impiegare la email come primo canale di contatto
 cv:
-  address: Endereço
-  area: Área
-  awarder: Premiado por
-  awards: Prêmios
-  basics: Informações gerais
-  certificates: Certificados
-  city: Cidade
-  countryCode: Código do país
-  courses: Cursos
+  address: Indirizzo
+  area: Area
+  awarder: Premiato da
+  awards: Premi
+  basics: Informazioni generali
+  certificates: Certificati
+  city: Città
+  countryCode: Codice nazionale
+  courses: Corsi
   date: Data
-  education: Educação
+  education: Educazione
   email: Email
-  endDate: Data de término
-  fluency: Fluência
+  endDate: Data di fine
+  fluency: Livello
   highlights: Destaques
-  image: Imagem
-  institution: Instituição
-  interests: Interesses
+  image: Immagine
+  institution: Istituzione
+  interests: Interessi
   issuer: Emissor
   keywords: Palavras chave
   label: Título
@@ -80,85 +81,84 @@ cv:
   volunteer: Voluntário
   work: Trabalho
 footer:
-  copyright: Direitos autorais
-  last_updated: "Última atualização:"
+  copyright: Diritti
+  last_updated: "Ultimo aggiornamento:"
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  Desenvolvido em <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> com o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
-  Hospedado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-latest_posts: últimas postagens
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+latest_posts: ultimi articoli
 months:
   long:
-    january: Janeiro
-    february: Fevereiro
-    march: Março
-    april: Abril
-    may: Maio
-    june: Junho
-    july: Julho
-    august: Agosto
-    september: Setembro
-    october: Outubro
-    november: Novembro
-    december: Dezembro
+    january: gennaio
+    february: febbraio
+    march: marzo
+    april: aprile
+    may: maggio
+    june: giugno
+    july: luglio
+    august: agosto
+    september: settembre
+    october: ottobre
+    november: novembre
+    december: dicembre
   short:
-    january: Jan
-    february: Fev
-    march: Mar
-    april: Abr
-    may: Mai
-    june: Jun
-    july: Jul
-    august: Ago
-    september: Set
-    october: Out
-    november: Nov
-    december: Dez
-news: novidades
+    january: gen
+    february: feb
+    march: mar
+    april: abr
+    may: mag
+    june: giu
+    july: lug
+    august: ago
+    september: set
+    october: ott
+    november: nov
+    december: dic
+news: novità
 newsletter:
-  back: Voltar
-  error: "Oops! Algo deu errado, por favor tente novamente."
-  subscribe: inscrever-se
-  subscribed: "Você se inscreveu com sucesso na newsletter."
-  subscribe_to_receive: "Inscreva-se para ser notificado de futuros artigos:"
-  too_many_signups: "Muitas inscrições, por favor tente novamente em breve"
-  wait: "Por favor, aguarde..."
-no_news: Nenhuma novidade no momento...
-no_posts: "Nenhuma postagem até agora..."
+  back: indietro
+  error: "Oops! Qualcosa è andato storto, per favore riprova."
+  subscribe: iscriviti
+  subscribed: "Ti sei registrato correttamente alla newsletter."
+  subscribe_to_receive: "Iscriviti per ricevere una notifica quando viene pubblicato un prossimo articolo"
+  too_many_signups: "Troppe iscrizioni, per favore riprova a breve"
+  wait: "Per favore, attendi..."
+no_news: Nessuna novità al momento...
+no_posts: "Nessun articolo ancora..."
 pagination:
-  page: página
+  page: pagina
 post:
-  created_in: Criado em
-  created_by: por
-  last_updated: última atualização em
-references: Referências
+  created_in: Creato nel
+  created_by: da
+  last_updated: ultimo aggiornamento il
+references: Bibliografia
 related_posts:
-  description: "Aqui estão alguns artigos relacionados que você pode gostar de ler:"
-  title: Gostou de Ler este Artigo?
+  description: "Qui puoi trovare altri articoli che potrebbero interessarti:"
+  title: Ti è interessato leggere questo articolo?
 search:
   dark_theme:
-    description: Muda o tema do site para escuro
-    title: Muda o tema para escuro
-  dropdown: Outras opções
-  email: Enviar um email
+    description: Visualizza il sito con lo sfondo scuro
+    title: Cambia lo stile in scuro
+  dropdown: Altre opzioni
+  email: Invia una mail
   footer:
-    close: para fechar
-    navigate: para navegar
-    parent: voltar um nível
-    select: para selecionar
-  languages: Idiomas
+    close: per chiudere
+    navigate: per navigare
+    parent: vai alla home
+    select: per selezionare
+  languages: Lingue
   light_theme:
-    description: Muda o tema do site para claro
-    title: Muda o tema para claro
-  navigation: Menu de navegação
-  news: Novidades
-  placeholder: Digite para iniciar a busca
-  posts: Postagens
-  projects: Projetos
-  socials: Redes sociais
+    description: Visualizza il sito con lo sfondo scuro
+    title: Cambia lo stile in chiaro
+  navigation: Menu di navigazione
+  news: Novità
+  placeholder: Digita per iniziare a cercare
+  posts: Articoli
+  projects: Progetti
+  socials: Social Media
   system_theme:
-    description: Muda o tema do site para o padrão do sistema
-    title: Usa o tema padrão do sistema
+    description: Visualizza il sito con lo sfondo predefinito
+    title: Usa lo stile predefinito
   theme: Tema
-selected_publications: publicações selecionadas
-site_description: Um tema simples para acadêmicos. Baseado no design do [*folio](https://github.com/bogoli/-folio).
+selected_publications: pubblicazioni selezionate
+site_description: Il mio sito web personale, basato sul template [*folio](https://github.com/bogoli/-folio).
