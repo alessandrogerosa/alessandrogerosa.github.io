@@ -347,8 +347,8 @@ external_links:
 languages: ["en", "it"]
 default_lang: "en"
 exclude_from_localization: ["assets"]
-lang_from_path: false
-country_flag: false # set true for allowing flag symbol in language toggle
+lang_from_path: true
+country_flag: true # set true for allowing flag symbol in language toggle
 parallel_localization: false
 
 # -----------------------------------------------------------------------------
