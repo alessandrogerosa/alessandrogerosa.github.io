@@ -1,28 +1,32 @@
 ---
 page_id: about
 layout: about
-title: Über
+title: bio
 permalink: /
-subtitle: <a href='https://www.tuwien.at/bibliothek/'>TU Wien Bibliothek</a>
+subtitle:
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>TU Wien Bibliothek</p><br>
-    <p>DD 02 B17</p><br>
-    <p>Resselgasse 4</p><br>
-    <p>1040 Wien</p>
+    <p>Scienze sociali e politiche</p><br>
+    <p>Università degli Studi di Milano</p><br>
+    <p>Via Conservatorio, 7</p><br>
+    <p>20122, Milano</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Ich bin Bibliothekar und arbeite als Open Access Manager in der [Fachgruppe Publikationsservices](https://www.tuwien.at/bibliothek/publizieren) der [TU Wien](https://www.tuwien.at/) [Bibliothek](https://www.tuwien.at/bibliothek/).
+Sono ricercatore in `sociologia culturale` (RTdB) presso il Dipartimento di Scienze Sociali e Politiche dell'Università degli Studi di Milano.
 
-Ich habe mein zweijähriges Bibliotheksreferendariat an der [Universitätsbibliothek](https://www.ub.uni-frankfurt.de/) der [Goethe Universität](https://www.uni-frankfurt.de/) in Frankfurt am Main absolviert. Dort erhielt ich von der [HU Berlin](https://www.hu-berlin.de/) meinen [Master in Bibliotheks- und Informationswissenschaft](https://www.ibi.hu-berlin.de/de/studium/studiengaenge/fernstudium) und vom Land Hessen meine Staatsexamen-Qualifikation als Assessor des Bibliotheksdienstes.
+La mia ricerca adotta una prospettiva culturale e `critica` per analizzare come gli individui cerchino di conseguire un'esistenza significativa ed `autentica` nel `capitalismo` tardo moderno, in particolare attraverso pratiche `lavorative` e di `consumo`.
 
-Ich habe meinen Doktor am [Fachbereich Linguistik](https://www.ling.uni-konstanz.de/) der [Universität Konstanz](https://www.uni-konstanz.de/) gemacht. Der Fokus meiner Forschung war die Semantik und Pragmatik von Konditionalsätzen, wo ich mich darauf spezialisierte, die Gelungenheitsverteilung von umgekehrten Sobelsequenzen zu modellieren. Das Hauptziel meiner Forschung war es, die Debatte zwischen der dynamisch strikten Herangehensweise und der variabel-strikten Herangehensweise für das Modellieren von Konditionalsätzen voranzubringen. Die Betreuer meiner Dissertation waren [Maribel Romero](https://ling.sprachwiss.uni-konstanz.de/pages/home/romero/), [María Biezma](https://mariabiezma.com/) und [Regine Eckardt](https://www.ling.uni-konstanz.de/eckardt/personen/prof-dr-regine-eckardt/).
+Ho pubblicato [The Hipster Economy: Taste and Authenticity in Late Modern Capitalism](https://www.uclpress.co.uk/products/230904) per `UCL Press` (il libro è liberamente scaricabile in `Open Access` al link). Potete accedere a tutti gli articoli e video o audio che ne discutono nella pagina dedicata.
+
+I miei progetti di ricerca recenti si sono concentrati sul consumo e sul lavoro `neo-artigianali`, sulle `culture digitali` e sui processi di `trasformazione urbana`. Il mio progetto di ricerca attuale (senza finanziamenti) mira ad analizzare la possibile dimensione organizzativa `collettiva` nei processi di politicizzazione del lavoro neo-artigianale, attraverso il caso di studio delle reti o collaborazioni tra `vignaioli` critici e altri attori.
+
+Sono anche autore di numerose pubblicazioni accademiche. Potete trovare una selezione di alcune di esse appena sotto o l'elenco completo nella pagina dedicata.

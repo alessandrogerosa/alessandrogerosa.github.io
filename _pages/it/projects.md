@@ -1,12 +1,12 @@
 ---
 page_id: projects
 layout: page
-title: Progetti
+title: progetti
 permalink: /projects/
 description: Una sintesi dei miei progetti di ricerca a cui ho e sto lavorando.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [work]
 horizontal: false
 ---
 

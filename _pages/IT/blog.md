@@ -3,8 +3,8 @@ page_id: blog
 layout: default
 permalink: /blog/
 title: blog
-blog_name: al-folio em português brasileiro
-description: um tema simples para acadêmicos
+blog_name: Un blog
+description: Articoli e appunti su cosa accade nel mondo e nella mia vita
 nav: true
 nav_order: 1
 pagination:
