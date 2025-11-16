@@ -1,7 +1,7 @@
 ---
 page_id: teaching
 layout: page
-title: I miei insegnamenti
+title: didattica
 permalink: /teaching/
 description:
 nav: true
@@ -10,11 +10,15 @@ display_categories: [teaching]
 horizontal: false
 ---
 
-Attualmente, insegno i corsi in 'Comunicazione e Cultura Digitale' (in Italiano) e 'Datafied Society' (in lingua Inglese) per il corso di laurea in Comunicazione Pubblica e d'Impresa, presso l'Università degli Studi di Milano.
+Attualmente, insegno `Comunicazione e Cultura Digitale` (in Italiano) e `Datafied Society` (in Inglese) per il corso di laurea in `Comunicazione Pubblica e d'Impresa`, presso l'Università degli Studi di Milano.
 
-In passato ho insegnato i corsi in 'Contemporary Issues in Marketing' e 'Branding in the Digital Age' per il corso di laurea in Business with Marketing presso la Birmingham Business School (UK) e il corso in 'Sociologia dei Consumi' presso l'Università Cattolica del Sacro Cuore di Milano.
+Ho conseguito il Postgraduate Certificate in Higher Education (PGCHE) presso l'University of Birmingham (UK).
 
-Per maggiori informazioni sui corsi di cui sono titolare, cliccate sui singoli corsi.
+In passato ho insegnato 'Contemporary Issues in Marketing' e 'Branding in the Digital Age' presso la Birmingham Business School (UK) e il corso in 'Sociologia dei Consumi' presso l'Università Cattolica di Milano.
+
+Potete trovare maggiori informazioni sui corsi che insegno ai link sottostanti.
+
+Le foto sono in licenza CC, rispettivamente di [Jon Tyson](https://unsplash.com/it/@jontyson) e [Joshua Koblin](https://unsplash.com/it/@joshkoblin)
 
 <!-- pages/projects.md -->
 <div class="projects">

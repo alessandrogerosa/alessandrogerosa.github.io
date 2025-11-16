@@ -1,28 +1,25 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"gandini":
+  - firstname: ["Alessandro", "A.", "A"]
+    url: https://scholar.google.com/citations?user=w4LPZ90AAAAJ&hl=en
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"giorgi":
+  - firstname: ["Giulia", "G.", "G"]
+    url: https://giuliagiorgi.eu
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"tartari":
+  - firstname: ["Maria", "M.","M"]
+    url: https://scholar.google.com/citations?user=8zwRsBkAAAAJ&hl=it
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"keeling":
+  - firstname: ["Silvia", "S.","S"]
+    url: https://scholar.google.com/citations?user=SmZDa-YAAAAJ&hl=it
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"pais":
+  - firstname: ["Ivana", "I.", "I"]
+    url: https://docenti.unicatt.it/ppd2/en/docenti/14070/ivana-pais
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
+"manzo":
+  - firstname: ["Cecilia","C.","C"]
     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
 "lorentz":
