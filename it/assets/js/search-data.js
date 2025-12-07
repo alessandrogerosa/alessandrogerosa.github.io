@@ -62,7 +62,27 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/it/teaching/";
           },
-        },{id: "books-i-dannati-della-terra",
+        },{id: "books-adieux",
+          title: 'Adieux',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/Adieux/";
+            },},{id: "books-le-belle-immagini",
+          title: 'Le belle immagini',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/belle_immagini/";
+            },},{id: "books-bravo-brontosauro",
+          title: 'Bravo brontosauro',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/bravo_brontosauro/";
+            },},{id: "books-capital-et-idéologie-en-bande-dessinée",
+          title: 'Capital et Idéologie en bande dessinée',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/capital_ideologie/";
+            },},{id: "books-i-dannati-della-terra",
           title: 'I dannati della terra',
           description: "",
           section: "",handler: () => {
@@ -77,11 +97,36 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/it/books/it/dialectical_reason_2/";
+            },},{id: "books-interesting-times",
+          title: 'Interesting times',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/interesting_times/";
+            },},{id: "books-jingo",
+          title: 'Jingo',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/jingo/";
+            },},{id: "books-da-leccarsi-i-baffi",
+          title: 'Da leccarsi i baffi',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/leccarsi_baffi/";
             },},{id: "books-la-resistenza-delle-donne",
           title: 'La Resistenza delle Donne',
           description: "",
           section: "",handler: () => {
               window.location.href = "/it/books/it/resistenza_donne/";
+            },},{id: "books-nation",
+          title: 'Nation',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/the_nation/";
+            },},{id: "books-un-viaggio-inutile",
+          title: 'Un viaggio inutile',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/un_viaggio_inutile/";
             },},{id: "news-um-anúncio-simples-em-uma-linha",
           title: 'Um anúncio simples em uma linha.',
           description: "",
