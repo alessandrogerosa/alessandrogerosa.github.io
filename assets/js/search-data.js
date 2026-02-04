@@ -62,7 +62,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-adieux",
+        },{id: "books-la-resistenza-delle-donne",
+          title: 'La Resistenza delle Donne',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/books/en/resistenza_donne/";
+            },},{id: "books-eolie-enoiche",
+          title: 'Eolie Enoiche',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/books/en/eolie_enoiche/";
+            },},{id: "books-adieux",
           title: 'Adieux',
           description: "",
           section: "",handler: () => {
@@ -112,11 +122,6 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/en/leccarsi_baffi/";
-            },},{id: "books-la-resistenza-delle-donne",
-          title: 'La Resistenza delle Donne',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/books/en/resistenza_donne/";
             },},{id: "books-nation",
           title: 'Nation',
           description: "",
@@ -127,16 +132,39 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/en/un_viaggio_inutile/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "books-lo-sconosciuto",
+          title: 'Lo Sconosciuto',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "",handler: () => {
+              window.location.href = "/books/en/lo_sconosciuto/";
+            },},{id: "books-poison-river",
+          title: 'Poison River',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/en/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "",handler: () => {
+              window.location.href = "/books/en/poison_river/";
+            },},{id: "books-poison-river",
+          title: 'Poison River',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/books/en/Human_diastrophism/";
+            },},{id: "books-furore",
+          title: 'Furore',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/books/en/furore/";
+            },},{id: "books-la-vita-meravigliosa",
+          title: 'La vita meravigliosa',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/books/en/vita_meravigliosa/";
+            },},{id: "news-my-new-article-the-role-of-proximity-coworking-spaces-in-the-post-pandemic-platform-urbanism-has-been-published-on-polity-and-space-read-the-pre-print-here",
+          title: 'My new article The role of proximity coworking spaces in the post-pandemic platform...',
+          description: "",
+          section: "News",},{id: "news-a-new-review-of-my-book-the-hipster-economy-has-been-published-on-anthropological-forum",
+          title: 'A new review of my book “The Hipster Economy” has been published on...',
+          description: "",
+          section: "News",},{id: "news-a-new-review-of-my-book-the-hipster-economy-has-been-published-on-administrative-science-quarterly",
+          title: 'A new review of my book “The Hipster Economy” has been published on...',
           description: "",
           section: "News",},{id: "projects-comunicazione-e-cultura-digitale",
           title: 'Comunicazione e Cultura Digitale',

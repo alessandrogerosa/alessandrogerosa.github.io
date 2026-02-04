@@ -62,7 +62,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/it/teaching/";
           },
-        },{id: "books-adieux",
+        },{id: "books-la-resistenza-delle-donne",
+          title: 'La Resistenza delle Donne',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/resistenza_donne/";
+            },},{id: "books-eolie-enoiche",
+          title: 'Eolie Enoiche',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/eolie_enoiche/";
+            },},{id: "books-adieux",
           title: 'Adieux',
           description: "",
           section: "",handler: () => {
@@ -112,11 +122,6 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/it/books/it/leccarsi_baffi/";
-            },},{id: "books-la-resistenza-delle-donne",
-          title: 'La Resistenza delle Donne',
-          description: "",
-          section: "",handler: () => {
-              window.location.href = "/it/books/it/resistenza_donne/";
             },},{id: "books-nation",
           title: 'Nation',
           description: "",
@@ -127,16 +132,39 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/it/books/it/un_viaggio_inutile/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha",
-          title: 'Um anúncio simples em uma linha.',
+            },},{id: "books-lo-sconosciuto",
+          title: 'Lo Sconosciuto',
           description: "",
-          section: "Novità",},{id: "news-um-anúncio-longo-com-detalhes",
-          title: 'Um anúncio longo com detalhes',
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/lo_sconosciuto/";
+            },},{id: "books-poison-river",
+          title: 'Poison River',
           description: "",
-          section: "Novità",handler: () => {
-              window.location.href = "/it/news/it/announcement_2/";
-            },},{id: "news-um-anúncio-simples-em-uma-linha-com-markdown-emoji-sparkles-smile",
-          title: 'Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:',
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/poison_river/";
+            },},{id: "books-poison-river",
+          title: 'Poison River',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/Human_diastrophism/";
+            },},{id: "books-furore",
+          title: 'Furore',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/furore/";
+            },},{id: "books-la-vita-meravigliosa",
+          title: 'La vita meravigliosa',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/it/books/it/vita_meravigliosa/";
+            },},{id: "news-il-mio-articolo-accademico-the-role-of-proximity-coworking-spaces-in-the-post-pandemic-platform-urbanism-è-stato-pubblicato-su-polity-and-space-leggi-il-pre-print-qui",
+          title: 'Il mio articolo accademico The role of proximity coworking spaces in the post-pandemic...',
+          description: "",
+          section: "Novità",},{id: "news-una-nuova-recensione-accademica-del-mio-libro-the-hipster-economy-è-stata-pubblicata-su-anthropological-forum",
+          title: 'Una nuova recensione accademica del mio libro “The Hipster Economy” è stata pubblicata...',
+          description: "",
+          section: "Novità",},{id: "news-una-nuova-recensione-accademica-del-mio-libro-the-hipster-economy-è-stata-pubblicata-su-administrative-science-quarterly",
+          title: 'Una nuova recensione accademica del mio libro “The Hipster Economy” è stata pubblicata...',
           description: "",
           section: "Novità",},{id: "projects-comunicazione-e-cultura-digitale",
           title: 'Comunicazione e Cultura Digitale',
