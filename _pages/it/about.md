@@ -15,8 +15,16 @@ profile:
     <p>Via Conservatorio, 7</p><br>
     <p>20122, Milano</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+news:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
@@ -27,6 +35,15 @@ La mia ricerca adotta una prospettiva culturale e `critica` per analizzare come 
 
 Ho pubblicato [The Hipster Economy: Taste and Authenticity in Late Modern Capitalism](https://www.uclpress.co.uk/products/230904) per `UCL Press` (il libro è liberamente scaricabile in `Open Access` al link). Potete accedere a tutti gli articoli e video o audio che ne discutono nella pagina dedicata.
 
-I miei progetti di ricerca recenti si sono concentrati sul consumo e sul lavoro `neo-artigianali`, sulle `culture digitali` e sui processi di `trasformazione urbana`. Il mio progetto di ricerca attuale (senza finanziamenti) mira ad analizzare la possibile dimensione organizzativa `collettiva` nei processi di politicizzazione del lavoro neo-artigianale, attraverso il caso di studio delle reti o collaborazioni tra `vignaioli` critici e altri attori.
+Negli anni recenti, ho svolto ricerche sul consumo e sul lavoro `neo-artigianale`, sulle `culture digitali` e sui processi di `trasformazione urbana`.
 
-Sono anche autore di numerose pubblicazioni accademiche. Potete trovare una selezione di alcune di esse appena sotto o l'elenco completo nella pagina dedicata.
+Attualmente sto indagando le forme di `politicizzazione` del lavoro e del consumo neo-artigianali, analizzando in particolare:
+1. le connessioni politiche tra artigiani ed altri attori.
+2. i meccanismi di inclusione ed esclusione politica e la gestione delle tensioni tra finalità politiche ed economiche.
+3. le relazioni tra geografie urbane e rurali, attuali e immaginate dagli artigiani.
+
+Altri miei interessi di ricerca attuali includono:
+* l'impatto di media digitali, piattaforme digitali e GenAI sul benessere psicofisico, le relazioni sociali e il senso di solitudine degli invidividui, in particolare di coloro che sono vittima di discriminazioni strutturali;
+* counter-datafication projects;
+* la rilevanza del pensiero di Sartre per la ricerca sociologica;
+* teorici marxisti e eterodossi nel campo della biologia dell'evoluzione (e.g., Gould, Lewontin, Levins) e possibili applicazioni nel campo delle scienze sociali.

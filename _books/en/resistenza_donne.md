@@ -8,11 +8,11 @@ isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: 
 tags: 
 buy_link:
-started: 2025-01-01
-finished: 2025-09-01
-released: 1966
+date: 2025-10-01
+started: 2025-01-03
+finished: 2025-10-01
+released: 2022
 stars: 5
 goodreads_review:
 status: finished
 ---
-

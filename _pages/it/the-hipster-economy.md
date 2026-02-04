@@ -28,7 +28,7 @@ From this premise, the book advances multiple original contributions. First, it 
 
 <br/><br/>
 
-### Recensioni positive per The Hipster Economy
+### Estratti da recensioni per The Hipster Economy
 
 > ‘The term “hipster” usually evokes frivolity, while the concept of “authenticity” has been studied so extensively it’s getting hard to find a novel use for it. In this lovely new book, Gerosa has given hipsterism the serious analysis it deserves. Through clear, unforced writing, he convincingly reveals the importance of a distinct form of hipster aesthetics, one based on authentic experience, for today’s consumption-based economy. Gerosa has successfully enlivened the conversations around authenticity and started new ones around late capitalism’s regimes of accumulation. This book is a fine achievement.’
 >
@@ -37,6 +37,23 @@ From this premise, the book advances multiple original contributions. First, it 
 > ‘The Hipster Economy is a very welcome addition to sociological discussions of authenticity and consumer culture. Ethnographic vignettes of “crafty capitalism” and passionate “taste dealers” enliven a theoretically rich argument that hipsterism should be treated not as a subculture, but as an aesthetic regime typifying contemporary life. Using the “hipster” as a lens, Gerosa provides a masterful tour of post-Fordist changes to modes of capitalism, patterns of urban development, and the material practices and subjective experiences of work, while charting the long-term development and contemporary expression of authenticity as a master narrative in consumer culture.’
 >
 > Jennifer Smith Maguire, Sheffield Hallam University
+
+>‘The Hipster Economy stands as a highly cogent, clearly written exploration of the mechanics of late modern capitalism, and a fine example—especially to graduate students—of a carefully developed, persuasive theoretical contribution to an ongoing debate.’
+>
+> [Christine Larson, Administrative Science Quarterly](https://journals-sagepub.com/doi/full/10.1177/00018392251411308)
+
+>‘The Hipster Economy stands as a highly cogent, clearly written exploration of the mechanics of late modern capitalism, and a fine example—especially to graduate students—of a carefully developed, persuasive theoretical contribution to an ongoing debate.’
+>
+> [Michael Scott, Anthropological Forum](https://www.tandfonline.com/doi/full/10.1080/00664677.2025.2597941)
+
+>‘a bright insight into the state of late capitalism, analysing a new aesthetic consumer regime in the most diverse contexts such as food, drinks, clothing, music, tourism, craftwork and the digital and the urban sphere.’
+>
+> [Camilla Volpe, Sociology](https://journals.sagepub.com/doi/abs/10.1177/00380385241299374)
+
+>‘The Hipster Economy posits a consumer phenomenon in scholarly terms and The New Yorker confirms it in the marketplace.’
+>
+> [D Wood, Journal of Consumer Culture](https://journals.sagepub.com/doi/abs/10.1177/14695405241274935)
+
 
 # Materiali e recensioni su The Hipster Economy
 Qui puoi trovare i link a podcasts e articoli che discutono il libro o che mi hanno intervistato in merito ad esso. Tutti i materiali qui riportati sono in Italiano. Per quelli in Inglese, visita la [versione inglese della pagina](https://alessandrogerosa.github.io/the-hipster-economy/). 

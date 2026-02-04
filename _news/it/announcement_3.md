@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-07-31 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Um anúncio simples em uma linha com Markdown emoji! :sparkles: :smile:
+Il mio articolo accademico [The role of proximity coworking spaces in the post-pandemic platform urbanism](https://www.tandfonline.com/doi/abs/10.1080/13562576.2025.2529891) è stato pubblicato su Polity and Space! Leggi il pre-print [qui](https://alessandrogerosa.github.io/assets/pdf/manzo_gerosa_sap.pdf)
