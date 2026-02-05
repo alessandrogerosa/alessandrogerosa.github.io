@@ -46,4 +46,4 @@ Altri miei interessi di ricerca attuali includono:
 * l'impatto di media digitali, piattaforme digitali e GenAI sul benessere psicofisico, le relazioni sociali e il senso di solitudine degli invidividui, in particolare di coloro che sono vittima di discriminazioni strutturali;
 * counter-datafication projects;
 * la rilevanza del pensiero di Sartre per la ricerca sociologica;
-* teorici marxisti e eterodossi nel campo della biologia dell'evoluzione (e.g., Gould, Lewontin, Levins) e possibili applicazioni nel campo delle scienze sociali.
+* scienziati marxisti e eterodossi nel campo della biologia dell'evoluzione (e.g., Gould, Lewontin, Levins) e connessioni con il campo delle scienze sociali.

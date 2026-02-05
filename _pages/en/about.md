@@ -47,4 +47,4 @@ Other recent research interests of mine include:
 * the impact of digital media, platforms and GenAI on the mental and physical wellbeing of individuals, in particular of those who are victims of structural discriminations
 * counter-datafication projects
 * the relevance of Sartre's thought for sociological research
-* marxist and heterodox theorists in evolutionary biology (eg., Gould, Lewontin, Levins) and their relevance for debates in the social sciences.
+* marxist and heterodox scientists in evolutionary biology (eg., Gould, Lewontin, Levins) and their relevance for debates in the social sciences.
