@@ -10,9 +10,9 @@ tags:
 buy_link:
 date: 2026-01-26
 started: 2026-01-26
-finished:
+finished: 2026-02-03
 released: 1989
 stars: 5
 goodreads_review:
-status: reading
+status: finished
 ---
