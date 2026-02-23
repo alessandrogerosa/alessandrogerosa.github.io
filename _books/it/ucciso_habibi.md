@@ -3,7 +3,7 @@ layout: book-review
 title: Hanno ucciso habibi
 author: Aila Shrouq
 cover: 
-olid: OL7316642M # use Open Library ID to fetch cover (if no `cover` is provided)
+olid: OL61361510M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: 
 tags: 
