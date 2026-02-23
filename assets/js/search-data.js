@@ -152,6 +152,11 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/en/furore/";
+            },},{id: "books-hanno-ucciso-habibi",
+          title: 'Hanno ucciso habibi',
+          description: "",
+          section: "",handler: () => {
+              window.location.href = "/books/en/ucciso_habibi/";
             },},{id: "books-la-vita-meravigliosa",
           title: 'La vita meravigliosa',
           description: "",
